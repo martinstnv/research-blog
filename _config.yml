@@ -108,9 +108,6 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Security Engineer and Chapter Lead"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/martinstnv"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/martinstnv"
@@ -118,9 +115,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/martinstnv"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/martinstnv"
