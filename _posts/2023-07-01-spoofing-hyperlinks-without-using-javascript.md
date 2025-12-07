@@ -21,7 +21,7 @@ It turns out that if you nest a form inside a hyperlink, the form’s action tak
 </a>
 ```
 
-In this example, hovering over the element shows https://first.com in the browser tooltip, but clicking the button actually submits the form and navigates to https://second.com.
+In this example, hovering over the element shows `https://first.com` in the browser tooltip, but clicking the button actually submits the form and navigates to `https://second.com`.
 
 To make the effect even more seamless, you can use a bit of CSS trickery to style the button so it looks like normal text:
 
