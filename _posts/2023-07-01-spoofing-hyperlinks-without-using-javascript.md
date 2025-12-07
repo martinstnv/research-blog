@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Spoofing Hyperlink Without Using Javascript 
-date: 2025-12-07
+title: Spoofing Hyperlinks Without Using Javascript 
+date: 2023-07-01
 classes: wide
 ---
 
