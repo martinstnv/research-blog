@@ -5,11 +5,11 @@ date: 2023-07-01
 classes: wide
 ---
 
-> A clever way to to spoof hyperlink locations without using JavaScirpt.
+> A clever way to to spoof hyperlink locations without using only HTML amd CSS.
 
 Typically, controlling a link’s behavior, showing one URL on hover but opening another on click, is done using JavaScript. Common approaches include overriding the click event with `event.preventDefault()` and manually redirecting via `window.location.href`, or dynamically changing tooltips and hrefs to simulate different hover and click URLs.
 
-However, I’ve discovered an interesting approach that uses only HTML and CSS to override the destination of a hyperlink, achieving a similar effect without any JavaScript.
+However, I’ve discovered an interesting approach that uses only HTML and CSS to override the destination of a hyperlink, achieving a similar effect without relying on JavaScript.
 
 It turns out that if you nest a form inside a hyperlink, the form’s action takes precedence over the parent `<a>` element.
 
