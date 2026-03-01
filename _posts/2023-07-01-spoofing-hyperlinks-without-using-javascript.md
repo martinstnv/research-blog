@@ -3,6 +3,7 @@ layout: single
 title: Spoofing Hyperlinks Without Using Javascript 
 date: 2023-07-01
 classes: wide
+draft: true
 ---
 
 > A clever way to to spoof hyperlink locations without using only HTML amd CSS.
