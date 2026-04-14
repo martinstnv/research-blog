@@ -1,6 +1,6 @@
 ---
 layout: single
-title: The Lying Oracle Attack
+title: Side-channel Inference via Constrained Outputs
 date: 2026-04-14
 classes: wide
 tags:
