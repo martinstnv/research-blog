@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Side-channel Inference via Constrained Outputs
+title: Delegated Refusal Oracle Attack
 date: 2026-04-14
 classes: wide
 tags:
